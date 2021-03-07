@@ -36,5 +36,5 @@ No experience
 - JavaScript on [learn.javascript.ru]( https://learn.javascript.ru/)
 
 ### English language
-Proficiency level – A2.
+Proficiency level – A2
 
